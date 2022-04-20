@@ -17,16 +17,6 @@ export default function Topics(){
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean leo dolor, ultricies a erat malesuada, porttitor placerat purus. Cras vestibulum venenatis lacus, sed auctor nisi tincidunt a. Integer vitae efficitur ante.
                 </p>
             </dd>
-            <dt class="mb-4">
-                <h3 class="text-xl font-semibold">
-                    Topic 2
-                </h3>
-            </dt>
-            <dd class="mb-16">
-                <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean leo dolor, ultricies a erat malesuada, porttitor placerat purus. Cras vestibulum venenatis lacus, sed auctor nisi tincidunt a. Integer vitae efficitur ante.
-                </p>
-            </dd>
         </dl>
     </div>
 </div>

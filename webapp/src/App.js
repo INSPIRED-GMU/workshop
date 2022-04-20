@@ -13,18 +13,18 @@ import Submission from './components/submission';
 function App() {
   return (
     <div className="App">
-      
-<Navbar/>
-<Intro id="#about" />
-<div className="flex flex-row m-20"><About/><Importance/></div>
-<Keynote/>
-<Topics/>
-<div class="mx-auto max-w-7xl flex flex-col md:flex-row"><Submission className="md:w-2/3"></Submission><ImportantDates className="md:w-1/3"></ImportantDates></div>
-<Timeline id="#schedule"/>
 
-<div className="self-center">
-  <Team/>
-</div>
+      <Navbar />
+      <div id="about"><Intro/></div>
+      <div className="flex flex-row m-20"><About /><Importance /></div>
+      <Keynote />
+      <Topics />
+      <div id="papers" class="mx-auto max-w-7xl flex flex-col md:flex-row"><Submission className="md:w-2/3"></Submission><ImportantDates className="md:w-1/3"></ImportantDates></div>
+      <div id="schedule"><Timeline/></div>
+
+      <div className="self-center">
+        <Team />
+      </div>
 
 
 

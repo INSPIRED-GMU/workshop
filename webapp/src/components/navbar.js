@@ -9,8 +9,8 @@ export default function Navbar() {
   <div class="flex-none">
     <ul class="menu menu-horizontal p-0">
       <li><a href="#about">About</a></li>
-      <li><a href="#schedule">Schedule</a></li>
       <li><a href="#papers">Papers</a></li>
+      <li><a href="#schedule">Schedule</a></li>
     </ul>
   </div>
 </div>
