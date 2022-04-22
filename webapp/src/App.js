@@ -19,7 +19,7 @@ function App() {
       <div className="flex flex-row m-20"><About /><Importance /></div>
       <Keynote />
       <Topics />
-      <div id="papers" class="mx-auto max-w-7xl flex flex-col md:flex-row"><Submission className="md:w-2/3"></Submission><ImportantDates className="md:w-1/3"></ImportantDates></div>
+      <div id="papers" class="mx-auto max-w-7xl items-top flex flex-col md:flex-row justify evenly"><Submission className="md:w-2/3"></Submission><ImportantDates className="md:w-1/3"></ImportantDates></div>
       <div id="schedule"><Timeline/></div>
 
       <div className="self-center">

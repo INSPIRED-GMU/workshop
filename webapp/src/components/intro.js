@@ -6,8 +6,8 @@ export default function Intro() {
   <div class="hero-content flex-col lg:flex-row-reverse">
     <div>
         {/* <div class="badge">Co-located with VL/HCC</div> */}
-      <h1 class="text-5xl font-bold">Social & Behavioral Theory in Technical Research</h1>
-      <p class="py-6">The special theme for VL/HCC Conference 2022 is Human Centric AI.  Human. Centric.  AI.  Those three words are very paramount together and individually yet it is even more crucial and critical how we go about implementing, developing and designing AI technologies.  There is so much involved in the process which should not be taken lightly. It is imperative that we do not operate in a vacuum while discussing Human Centric AI.  Therefore, VL/HCC Conference offers a unique opportunity to gather a community of scholars to discuss how we centralize humanity within AI. </p>
+      <h1 class="text-5xl font-bold">Social & Behavioral Theory in Technical Research (HumanTech)</h1>
+      <p class="py-6">This workshop will provide an opportunity for both researchers already integrating human-centric theory into their work and researchers interested in doing so to engage with one another on the successes and opportunities across the tech spectrum. Only through this visible community of researchers centering technology on humanity through theory-driven research and solutions can we start to see more efforts that make use of the wealth of human-centric, non-technical theories in technical research. </p>
       {/* <button class="btn btn-neutral">Register</button> */}
     </div>
   </div>

@@ -4,7 +4,7 @@ export default function Navbar() {
     <div className="App">
         <div class="navbar bg-base-100">
   <div class="flex-1">
-    <a class="btn btn-ghost normal-case text-xl">TBD</a>
+    <a class="btn btn-ghost normal-case text-xl">HumanTech</a>
   </div>
   <div class="flex-none">
     <ul class="menu menu-horizontal p-0">

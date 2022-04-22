@@ -22,7 +22,7 @@ export default function Team() {
                     George Mason University
                 </p>
                 <p class="text-md text-gray-500 dark:text-gray-400 max-w-xs py-4 font-light">
-                Dr. Brittany Johnson is an Assistant Professor in the Computer Science Department at George Mason University. She co-organized the first International Workshop on Software Fairness (Fairware 2018)  and the re-designed International Workshop on Equitable Data and Technology (Fairware 2022). She has served on numerous conference program and organizing committees, including ICSE and ASE. She also has extensive experience volunteering at ICSE, co-located workshops, and other conferences (including VL/HCC). She is well-versed in workshop formats and logistics. She also has experience organizing workshops at a smaller scale, including library workshops on using Python for scientific computing. Her research frequently engages with social and behavioral theory to help understand phenomena in software development and provide theory-based suggestions for improvement.
+                Dr. Brittany Johnson is an Assistant Professor in the Computer Science Department at George Mason University and director of the INSPIRED (INterdisciplinary Software Practice Improvement REsearch and Development) Lab. She co-organized the first International Workshop on Software Fairness (Fairware 2018)  and the re-designed International Workshop on Equitable Data and Technology (Fairware 2022). She has served on numerous conference program and organizing committees, including ICSE and ASE. She also has extensive experience volunteering at ICSE, co-located workshops, and other conferences (including VL/HCC). She is well-versed in workshop formats and logistics. She also has experience organizing workshops at a smaller scale, including library workshops on using Python for scientific computing. Her research frequently engages with social and behavioral theory to help understand phenomena in software development and provide theory-based suggestions for improvement.
 
                 </p>
             </div>
@@ -56,7 +56,8 @@ export default function Team() {
                     DePaul University
                 </p>
                 <p class="text-md text-gray-500 dark:text-gray-400 max-w-xs py-4 font-light">
-                Dr. Alicia Boyd received her PhD in Computer Science from DePaul University in Chicago, Illinois in 2021. Her research involves interrogating methodologies and practices used in data-driven technologies.  She created Quantitative Intersectional Data (QUINTA) which is a methodological framework that critiques the data science process and its underlying structural and societal injustices and oppressions. Alicia has ample experience planning, organizing and creating budgets for workshops, events and conferences for small and large audiences. She has experience leading presentations and tutorials to diverse audiences.  
+                Dr. Alicia Boyd received her PhD in Computer Science from DePaul University in Chicago, Illinois in 2021. Her research involves interrogating methodologies and practices used in data-driven technologies.  She created Quantitative Intersectional Data (QUINTA), which is a methodological framework that critiques the data science process and its underlying structural and societal injustices and oppressions using anthropological, ethnographic, and social theories. Alicia has ample experience planning, organizing and creating budgets for workshops, events and conferences for small and large audiences. She has experience leading presentations and tutorials to diverse audiences and served as co-organizer for the International Workshop on Equitable Data and Technology (Fairware 2022). 
+
                 </p>
             </div>
             <div class="pt-8 flex border-t border-gray-200 w-44 mx-auto text-gray-500 items-center justify-between">
@@ -88,7 +89,7 @@ export default function Team() {
                     George Mason University
                 </p>
                 <p class="text-md text-gray-500 dark:text-gray-400 max-w-xs py-4 font-light">
-                Ebtesam Al Haque is a PhD student in the Computer Science department at George Mason University. She has built her reputation, which includes being one of the top 50 hackers in the country,  on using her technical skills and creative thinking for a positive societal impact.
+                Ebtesam Al Haque is a PhD student in the Computer Science department at George Mason University working with Dr. Johnson in the INSPIRED Lab. She has built her reputation, which includes being one of the top 50 hackers in the country,  on using her technical skills and creative thinking for a positive societal impact.
                 </p>
             </div>
             <div class="pt-8 flex border-t border-gray-200 w-44 mx-auto text-gray-500 items-center justify-between">
