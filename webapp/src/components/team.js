@@ -78,7 +78,7 @@ export default function Team() {
         <div class="p-4">
             <div class="text-center mb-4 opacity-90">
                 <a href="#" class="block relative">
-                    <img alt="profil" src="https://media-exp1.licdn.com/dms/image/C4D03AQGd8FRdRwTq6A/profile-displayphoto-shrink_800_800/0/1649286826533?e=1655337600&v=beta&t=QchwRSkP1LS2v5o2k6PGddDYHDDS3CVj_Egg3F5vubo" class="mx-auto object-cover rounded-full h-40 w-40 "/>
+                    <img alt="profil" src="https://media-exp1.licdn.com/dms/image/C4D03AQFPDVR3hesr5A/profile-displayphoto-shrink_400_400/0/1650410200389?e=1655942400&v=beta&t=hg6qzj3iLvQnpyABDcEVoxxNPa-7eIe0o4dT_DFu6cY" class="mx-auto object-cover rounded-full h-40 w-40 "/>
                 </a>
             </div>
             <div class="text-center">
