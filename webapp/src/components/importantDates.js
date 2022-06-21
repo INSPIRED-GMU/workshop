@@ -12,7 +12,7 @@ export default function ImportantDates() {
                     </div>
                 </div>
                 <div class="text-gray-600 dark:text-gray-200 text-xs">
-                June 30, 2022
+                July 15, 2022
                 </div>
             </div>
         </li>
@@ -24,7 +24,7 @@ export default function ImportantDates() {
                     </div>
                 </div>
                 <div class="text-gray-600 dark:text-gray-200 text-xs">
-                July 15, 2022
+                July 29, 2022
                 </div>
             </div>
         </li>
@@ -36,7 +36,7 @@ export default function ImportantDates() {
                     </div>
                 </div>
                 <div class="text-gray-600 dark:text-gray-200 text-xs">
-                July 28, 2022
+                August 12, 2022
                 </div>
             </div>
         </li>
