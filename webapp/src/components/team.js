@@ -7,7 +7,7 @@ export default function Team() {
     <p class="text-center text-3xl font-bold text-gray-800 dark:text-white">
         Organizing Committee
     </p>
-    <div class="flex items-top flex-col md:flex-row justify evenly">
+    <div class="flex items-top content-center flex-col md:flex-row justify evenly">
         <div class="p-4">
             <div class="text-center mb-4 opacity-90">
                 <a href="#" class="block relative">
@@ -78,7 +78,7 @@ export default function Team() {
         <div class="p-4">
             <div class="text-center mb-4 opacity-90">
                 <a href="#" class="block relative">
-                    <img alt="profil" src="https://media-exp1.licdn.com/dms/image/C4D03AQFPDVR3hesr5A/profile-displayphoto-shrink_400_400/0/1650410200389?e=1655942400&v=beta&t=hg6qzj3iLvQnpyABDcEVoxxNPa-7eIe0o4dT_DFu6cY" class="mx-auto object-cover rounded-full h-40 w-40 "/>
+                    <img alt="profil" src="https://media-exp1.licdn.com/dms/image/C4D03AQFPDVR3hesr5A/profile-displayphoto-shrink_800_800/0/1650410200389?e=1661990400&v=beta&t=ePrvz67pxJWABtxW6GmeijbT96IXhWC4gAhUJ1rfEk8" class="mx-auto object-cover rounded-full h-40 w-40 "/>
                 </a>
             </div>
             <div class="text-center">
@@ -108,7 +108,13 @@ export default function Team() {
             </div>
         </div>
     </div>
+
+    
+ 
 </div>
+
+
+
 
 
     </div>

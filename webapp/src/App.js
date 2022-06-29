@@ -3,6 +3,7 @@ import Navbar from './components/navbar';
 import Intro from './components/intro';
 import About from './components/about';
 import Team from './components/team';
+import ProgramCommitte from './components/programCommitte';
 import Timeline from './components/timeline';
 import Importance from './components/importance';
 import Keynote from './components/keynote';
@@ -23,7 +24,8 @@ function App() {
       <div id="schedule"><Timeline/></div>
 
       <div className="self-center">
-        <Team />
+        <ProgramCommitte />
+        <Team/>
       </div>
 
 
