@@ -1,7 +1,7 @@
 
 export default function Team() {
   return (
-    <div className="flex self-center justify-center">
+    <div className="flex self-center justify-center mt-10">
       
 <div class="p-8 bg-white dark:bg-gray-800 rounded-lg">
     <p class="text-center text-3xl font-bold text-gray-800 dark:text-white">
